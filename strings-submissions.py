@@ -113,3 +113,112 @@ print("WELCOME".center(M, "-"))
 
 for i in range(N - 2 ,- 1, - 2): 
     print((i * ".|.").center(M, "-"))
+
+
+# String Formatting
+def print_formatted(n):
+    results = []
+
+    for i in range(1, n+1):
+        decimal = str(i)
+        octal = str(oct(i)[2:])
+        hex_ = str(hex(i)[2:]).upper()
+        binary = str(bin(i)[2:])
+
+        results.append([decimal, octal, hex_, binary])
+
+    width = len(results[-1][3])
+
+    for i in results:
+        print(*(rep.rjust(width) for rep in i))
+
+if __name__ == '__main__':
+    n = int(input())
+    print_formatted(n)
+
+
+# Alphabet Rangoli
+ def print_rangoli(n):
+    import string
+    alpha = string.ascii_lowercase
+
+    l = []
+    
+    for i in range(n):
+        s = "-".join(alpha[i:n])
+        l.append((s[::-1] + s[1:]).center(4 * n - 3, "-"))
+        
+    print('\n'.join(l[:0:-1] + l))
+
+if __name__ == '__main__':
+    n = int(input())
+    print_rangoli(n)
+
+
+# Capitalize!
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+def solve(s):
+    return ' '.join(map(str.capitalize, s.split(' ')))
+    
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    s = input()
+
+    result = solve(s)
+
+    fptr.write(result + '\n')
+
+    fptr.close()
+
+
+# The Minion Game
+def minion_game(s):
+
+    vowels = 'AEIOU'
+
+    kevsc = 0
+    stusc = 0
+    for i in range(len(s)):
+        if s[i] in vowels:
+            kevsc += (len(s) - i)
+        else:
+            stusc += (len(s) - i)
+
+    if kevsc > stusc:
+        print("Kevin", kevsc)
+    elif kevsc < stusc:
+        print("Stuart", stusc)
+    else:
+        print("Draw")
+
+if __name__ == '__main__':
+    s = input()
+    minion_game(s)
+
+
+# Merge the Tools!
+def merge_the_tools(string, k):
+    num_subsegments = int(len(string) / k)
+
+    for i in range(num_subsegments):
+        t = string[i * k : (i + 1) * k]
+    
+        u = ""
+    
+        for c in t:
+            if c not in u: u = u + c
+                
+        print(u)
+        
+if __name__ == '__main__':
+    string, k = input(), int(input())
+    merge_the_tools(string, k)
