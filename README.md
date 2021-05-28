@@ -1,2 +1,34 @@
 # Competitive-Programs
 Repository filled with some snippets I made on Leetcode and Hackerrank as of now, I will add code forces.
+
+- Hackerrank
+  - [Introduction](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/introduction-submissions.py)
+    - Hello World ✔️ 
+    - Python If-Else ✔️ 
+    - Python: Division ✔️ 
+    - Arithmetic Operators ✔️ 
+    - Loops ✔️ 
+    - Write a function ✔️ 
+    - Print Function ✔️ 
+  - [Basic Data Types](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/basic-data-types-submission.py)
+    - List Comprehensions ✔️ 
+    - Find the Runner-Up Score! ✔️ 
+    - Nested Lists ✔️ 
+    - Finding the percentage ✔️ 
+    - Lists ✔️ 
+    - Tuples ✔️ 
+  - [Strings](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/strings-submissions.py)
+    - Swap Case ✔️ 
+    - String Split and Join ✔️ 
+    - What's your name? ✔️ 
+    - Mutations ✔️ 
+    - Find a string ✔️ 
+    - String Validators ✔️ 
+    - Text Alignment ✔️ 
+    - Text Wrap ✔️ 
+    - Designer Door Mat ✔️ 
+    - String Formatting ✔️ 
+    - Alphabet Rangoli ✔️ 
+    - Capitalize! ✔️ 
+    - The Minion Game ✔️ 
+    - Merge the Tools! ✔️ 
