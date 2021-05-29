@@ -14,7 +14,7 @@ Repository filled with some snippets I made on Leetcode and Hackerrank as of now
     - [List Comprehensions ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Basic%20Data%20Types/list-comprehensions.py) 
     - [Find the Runner-Up Score! ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Basic%20Data%20Types/find-the-runner-up-score.py) 
     - [Nested Lists ✔️ ](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Basic%20Data%20Types/nested-lists.py)
-    - [Finding the percentage ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Basic%20Data%20Types/finding-the-percentage) 
+    - [Finding the percentage ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Basic%20Data%20Types/finding-the-percentage.py) 
     - [Lists ✔️ ](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Basic%20Data%20Types/lists.py)
     - [Tuples ✔️ ](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Basic%20Data%20Types/tuples.py)
   - [Strings](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Strings)
