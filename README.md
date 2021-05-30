@@ -32,3 +32,8 @@ Repository filled with some snippets I made on Leetcode and Hackerrank as of now
     - [Capitalize! ✔️ ](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Strings/capitalize.py)
     - [The Minion Game ✔️ ](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Strings/the-minion-game.py)
     - [Merge the Tools! ✔️ ](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Strings/merge-the-tools.py)
+  - [Sets](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets)
+    - [Introduction to Sets ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/introduction-to-sets.py)
+    - [No Idea! ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/no-idea.py)
+    - [Set .add() ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-dotadd.py)
+    - [Symmetric Difference ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/symmetric-difference.py)
