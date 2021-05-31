@@ -1,5 +1,5 @@
 # Competitive-Programs
-Repository filled with some snippets I made on Leetcode and Hackerrank as of now, I will add code forces.
+Repository filled with some snippets I submitted on Leetcode and Hackerrank as of now, I will add code forces.
 
 - Hackerrank
   - [Introduction](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Introduction)
@@ -35,5 +35,11 @@ Repository filled with some snippets I made on Leetcode and Hackerrank as of now
   - [Sets](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets)
     - [Introduction to Sets ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/introduction-to-sets.py)
     - [No Idea! ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/no-idea.py)
-    - [Set .add() ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-dotadd.py)
     - [Symmetric Difference ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/symmetric-difference.py)
+    - [Set .add() ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-dotadd.py)
+    - [Set .discard(), .remove() & .pop() ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-dotdiscard-dotremove-dotpop.py)
+    - [Set .union() Operation ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-dotunion.py)
+    - [Set .intersection() Operation ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-dotintersection.py)
+    - [Set .difference() Operation ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-dotdifference.py)
+    - [Set .symmetric_difference() Operation ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-dotsymmetric-difference.py)
+    - [Set Mutations ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Sets/set-mutations.py)
