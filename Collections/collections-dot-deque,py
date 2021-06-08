@@ -1,0 +1,13 @@
+# Collections.deque()
+from collections import deque
+a = deque()
+
+for i in range(int(input())):
+    temp = input()
+    
+    if temp == 'pop': a.pop()
+    elif temp == 'popleft': a.popleft()
+    elif temp.split()[0] == 'append': a.append(temp.split()[1])
+    elif temp.split()[0] == 'appendleft': a.appendleft(temp.split()[1])
+     
+print(*a)
