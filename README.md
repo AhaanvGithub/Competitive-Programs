@@ -62,4 +62,4 @@ Repository filled with some snippets I submitted on Leetcode and Hackerrank as o
       - [itertools.combinations_with_replacement() ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Collections/dot-combinations-with-replacement.py)
       - [Compress the String! ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Collections/compress-the-string.py)
       - [Iterables and Iterators ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Collections/iterables-and-iterators)
-      - [Maximize It! ✔️]
+      - [Maximize It! ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Collections/maximize-it.py)
