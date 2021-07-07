@@ -72,3 +72,6 @@ Repository filled with some snippets I submitted on Leetcode and Hackerrank as o
       - [Collections.deque() ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Collections/collections-dot-deque.py)
       - [Company Logo ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Collections/company-logo.py)
       - [Piling Up! ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Collections/piling-up.py)
+    - [Date and Time ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Date%20and%20Time)
+      - [Calender Module ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Date%20and%20Time/calender-module.py)
+      - [Time Delta ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Date%20and%20Time/time-delta.py)
