@@ -75,3 +75,6 @@ Repository filled with some snippets I submitted on Leetcode and Hackerrank as o
     - [Date and Time ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Date%20and%20Time)
       - [Calender Module ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Date%20and%20Time/calender-module.py)
       - [Time Delta ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Date%20and%20Time/time-delta.py)
+    - [Errors and Exceptions ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Errors%20and%20Exceptions)
+      - [Exceptions ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Errors%20and%20Exceptions/exceptions.py)
+      - [Incorrect Regex ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Errors%20and%20Exceptions/incorrect-regex.py)
