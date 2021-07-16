@@ -81,3 +81,7 @@ Repository filled with some snippets I submitted on Leetcode and Hackerrank as o
     - [Classes ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Classes)
       - [Classes: Dealing with Complex Numbers ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Classes/dealing-with-complex-numbers.py)
       - [Class 2 - Find the Torsional Angle ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Classes/find-the-torsial-angle.py)
+    - [Python Functionals](https://github.com/CoffeeliciousGithub/Competitive-Programs/tree/main/Python%20Functionals)
+      - [Map and Lambda Function](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/Python%20Functionals/map-and-lambda-function.py)
+      - [Validating Email Addresses With a Filter](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/Python%20Functionals/validating-email-addresses.py)
+      - [Reduce Function](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/Python%20Functionals/reduce-function.py)
