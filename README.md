@@ -85,3 +85,6 @@ Repository filled with some snippets I submitted on Leetcode and Hackerrank as o
       - [Map and Lambda Function ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/Python%20Functionals/map-and-lambda-function.py)
       - [Validating Email Addresses With a Filter ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/Python%20Functionals/validating-email-addresses.py)
       - [Reduce Function ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/Python%20Functionals/reduce-function.py)
+    - [XML](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/XML)
+      - [XML 1 - Find the Score](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/find-the-score.py)
+      - [XML2 - Find the Maximum Depth](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/find-the-maximum-depth.py)
