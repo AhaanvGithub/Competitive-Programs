@@ -1,5 +1,5 @@
 # Competitive-Programs
-Repository filled with some snippets I submitted on Leetcode and Hackerrank as of now, I will add code forces.
+Repository filled with some snippets I submitted on Hackerrank, as of 30/12/2023 I'll be adding weekly updates of competitive programming progress on Codeforces in 2024 as well as every single one of my solutions.
 
 - Hackerrank
   - Python
@@ -86,5 +86,5 @@ Repository filled with some snippets I submitted on Leetcode and Hackerrank as o
       - [Validating Email Addresses With a Filter ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/Python%20Functionals/validating-email-addresses.py)
       - [Reduce Function ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/Python%20Functionals/reduce-function.py)
     - [XML](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/XML)
-      - [XML 1 - Find the Score](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/find-the-score.py)
-      - [XML2 - Find the Maximum Depth](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/find-the-maximum-depth.py)
+      - [XML 1 - Find the Score ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/find-the-score.py)
+      - [XML2 - Find the Maximum Depth ✔️](https://github.com/CoffeeliciousGithub/Competitive-Programs/blob/main/find-the-maximum-depth.py)
